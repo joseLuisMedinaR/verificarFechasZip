@@ -1,0 +1,11 @@
+name:
+  "Verificar Fechas Archivos Zip - By Joselu - 2024"
+exec:
+  script:
+    main.py
+dependencies:
+  - pandas
+  - openpyxl
+  - odfpy
+  - flet
+  - pillow
