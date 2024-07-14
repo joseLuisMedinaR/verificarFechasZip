@@ -1,2 +1,9 @@
 #IGNORAMOS LA CARPETA DEL ENTORNO VIRTUAL
+main copy.py
+conexion.py
+config.py
+explicación.txt
+main_.py
 .verificarfechazip/
+__pycache__/
+verificarFechasZip_.png
